@@ -1,0 +1,8 @@
+{
+  "name": "event-listener",
+  "version": "1.0.0",
+  "description": "Simple function for addEventListener() vs. addEvent()",
+  "main": "index.js",
+  "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
+  "license": "MIT"
+}
