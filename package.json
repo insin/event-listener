@@ -4,5 +4,6 @@
   "description": "Simple function for addEventListener() vs. addEvent()",
   "main": "index.js",
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "insin/event-listener"
 }
