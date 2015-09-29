@@ -1,5 +1,7 @@
 # event-listener
 
+[![Build Status](https://travis-ci.org/insin/event-listener.svg?branch=master)](https://travis-ci.org/insin/event-listener)
+
 Simple function for `addEventListener()` vs `addEvent()` if you need to support
 old IE.
 
