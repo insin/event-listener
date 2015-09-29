@@ -5,5 +5,11 @@
   "main": "index.js",
   "author": "Jonny Buchanan <jonathan.buchanan@gmail.com>",
   "license": "MIT",
-  "repository": "insin/event-listener"
+  "repository": "insin/event-listener",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  }
 }
